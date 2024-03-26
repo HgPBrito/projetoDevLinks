@@ -42,7 +42,8 @@ body * {
 }
 
 #container {
-    width: 360px;
+    width: 100%;
+    max-width: 588px;
     /* funciona para o padding também
     margin: top/right/bottom/left; 1 propriedade
     margin: top/bottom right/left; 2 propriedades
